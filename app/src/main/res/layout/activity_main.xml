@@ -7,6 +7,7 @@
     android:background="#ffffff"
     tools:context=".MainActivity">
 
+    <!--Test commit-->
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="20dp"
